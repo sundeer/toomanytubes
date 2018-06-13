@@ -1,0 +1,4 @@
+baseURL = "http://toomanytubes.com/"
+languageCode = "en-us"
+title = "TooManyTubes"
+theme = 'ananke'
